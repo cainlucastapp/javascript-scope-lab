@@ -8,7 +8,7 @@ function addBurger() {
   burgers.push(newBurger);
 }
 
-// Always-true if statement
+// Function to add another new buger
 if(true) {
   const anotherNewBurger = 'Maple Bacon Burger';
   burgers.push(anotherNewBurger);
